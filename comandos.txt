@@ -1,0 +1,16 @@
+git init ---->iniicializa un directorio git
+git config --local user.name ""
+git config --local user.email ""
+
+git config --List -->
+
+* crear un archivo
+>touch index.html
+
+git status --> identifica el estado de los archivos referente
+               a la arquitectura de git.
+               working directory (rojo)
+               stagin area (verde)
+               repository ("clear tree")
+               
+git add <nombre_archivo> -->
